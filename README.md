@@ -32,18 +32,18 @@
 
 <div>
  <h4><strong>Always Learning</strong></h4>
- <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/csharp.png" width="30px">&ensp;&ensp;
+   <img src="./assets/python.png" width="30px">&ensp;&ensp;
+   <img src="./assets/flutter.png" width="30px">&ensp;&ensp;
+   <img src="./assets/postgresql.png" width="30px">&ensp;&ensp;
+   <img src="./assets/mongodb.png" width="30px">&ensp;&ensp;
+   <img src="./assets/html5.svg" width="30px">&ensp;&ensp;
    <img src="./assets/css3.svg" width="30px"> &ensp;&ensp;
    <img src="./assets/mysql.svg" width="30px">&ensp;&ensp;
- <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
- <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
- <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
- <img src="./assets/bootstrap5.png" width="30px">&ensp;&ensp;
-   <img src="./assets/csharp.png" width="30px">&ensp;&ensp;
-   <img src="./assets/flutter.png" width="30px">&ensp;&ensp;
-   <img src="./assets/mongodb.png" width="30px">&ensp;&ensp;
-   <img src="./assets/postgresql.png" width="30px">&ensp;&ensp;
-   <img src="./assets/python.png" width="30px">&ensp;&ensp;
+   <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/bootstrap5.png" width="30px">&ensp;&ensp;
 </div>
 
 <br>
