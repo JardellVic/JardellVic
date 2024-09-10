@@ -38,7 +38,12 @@
  <img src="./assets/javascript.svg" width="30px">&ensp;&ensp;
  <img src="./assets/typescript.svg" width="30px">&ensp;&ensp;
  <img src="./assets/nodejs.svg" width="30px">&ensp;&ensp;
- <img src="./assets/react.svg" width="30px">&ensp;&ensp;
+ <img src="./assets/bootstrap5.png" width="30px">&ensp;&ensp;
+   <img src="./assets/csharp.png" width="30px">&ensp;&ensp;
+   <img src="./assets/flutter.png" width="30px">&ensp;&ensp;
+   <img src="./assets/mongodb.png" width="30px">&ensp;&ensp;
+   <img src="./assets/postgresql.png" width="30px">&ensp;&ensp;
+   <img src="./assets/python." width="30px">&ensp;&ensp;
 </div>
 
 <br>
