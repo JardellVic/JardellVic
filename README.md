@@ -43,7 +43,7 @@
    <img src="./assets/flutter.png" width="30px">&ensp;&ensp;
    <img src="./assets/mongodb.png" width="30px">&ensp;&ensp;
    <img src="./assets/postgresql.png" width="30px">&ensp;&ensp;
-   <img src="./assets/python." width="30px">&ensp;&ensp;
+   <img src="./assets/python.png" width="30px">&ensp;&ensp;
 </div>
 
 <br>
