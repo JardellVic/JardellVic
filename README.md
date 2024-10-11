@@ -1,7 +1,7 @@
 
 <br>
 
-<h1 align="left">Hi🫡, I'm Jardell Silva</h1>
+<h1 align="left">Hi, I'm Jardell Silva</h1>
 
 - 🔥 Junior Developer
 
