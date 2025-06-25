@@ -9,7 +9,7 @@
 
 ### 📩 Contact
 
-[<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website]
+<!-- [<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website] -->
 [<img align="left" alt="linkedin  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
 
 </p>
