@@ -3,7 +3,7 @@
 
 <h1 align="left">Hi, I'm Jardell Silva</h1>
 
-- 🔥 Junior Developer
+- 🔥Tech Lead
 
 <br>
 
