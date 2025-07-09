@@ -20,12 +20,12 @@
 
 <div>
    <h4><strong>Tools</strong></h4>
-   <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
    <img src="./assets/vscode.svg" width="30px">&ensp;&ensp;
+   <img src="./assets/docker.svg" width="30px">&ensp;&ensp;
    <img src="./assets/postman.svg" width="30px">&ensp;&ensp;
    <img src="./assets/git.svg" width="30px">&ensp;&ensp;
    <img src="./assets/github.svg" width="30px">&ensp;&ensp;
-   <img src="./assets/figma.svg" width="20px">&ensp;&ensp;
+   <img src="./assets/windows.svg" width="30px">&ensp;&ensp;
 </div>
 
 <!-- ********************************* Always Learning **************************************** -->
